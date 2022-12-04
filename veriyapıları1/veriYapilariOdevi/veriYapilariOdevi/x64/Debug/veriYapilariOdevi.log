@@ -1,0 +1,4 @@
+﻿  veriYapilariOdevi.cpp
+C:\Users\User\source\repos\veriYapilariOdevi\veriYapilariOdevi\veriYapilariOdevi.cpp(100,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\User\source\repos\veriYapilariOdevi\veriYapilariOdevi\veriYapilariOdevi.cpp(114,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  veriYapilariOdevi.vcxproj -> C:\Users\User\source\repos\veriYapilariOdevi\x64\Debug\veriYapilariOdevi.exe

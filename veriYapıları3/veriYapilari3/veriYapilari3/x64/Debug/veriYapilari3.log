@@ -1,0 +1,24 @@
+﻿  veriYapilari3.cpp
+C:\Users\User\source\repos\veriYapilari3\veriYapilari3\veriYapilari3.cpp(264,33): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\User\source\repos\veriYapilari3\veriYapilari3\veriYapilari3.cpp(283,25): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\User\source\repos\veriYapilari3\veriYapilari3\veriYapilari3.cpp(249,25): warning C4101: 'p': unreferenced local variable
+C:\Users\User\source\repos\veriYapilari3\veriYapilari3\veriYapilari3.cpp(304,33): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\User\source\repos\veriYapilari3\veriYapilari3\veriYapilari3.cpp(323,25): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\User\source\repos\veriYapilari3\veriYapilari3\veriYapilari3.cpp(291,25): warning C4101: 'p': unreferenced local variable
+  veriYapilari3.vcxproj -> C:\Users\User\source\repos\veriYapilari3\x64\Debug\veriYapilari3.exe
